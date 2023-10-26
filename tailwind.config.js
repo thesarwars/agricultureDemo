@@ -12,7 +12,10 @@ module.exports = {
     colors: {
       'nav-gray': '#565656',
       'agGreen': '#368454',
-      'bgGray': '#6D6D6D'
+      'bgGray': '#6D6D6D',
+      'lightGreen': '#BDD69E',
+      'darkGreen': '#365341',
+      'darkerGreen':'#05712E',
     },
     extend: {
       backgroundImage: {
