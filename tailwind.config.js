@@ -20,6 +20,7 @@ module.exports = {
       'darkerGreen':'#05712E',
       'hoverGreen': '#1C7A07',
       'hoverBgGreen': '#3E8C3C',
+      'pinkish': '#FAF1F1',
     },
     extend: {
       backgroundImage: {
