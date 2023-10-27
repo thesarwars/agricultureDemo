@@ -11,10 +11,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Learn More
 
 Screenshot-1
-[Image](/Users/sarwars/Downloads/agriculture design/agcode/agcode/public/screenshot_1.png)
+![Image](/Users/sarwars/Downloads/agriculture design/agcode/agcode/public/screenshot_1.png)
 
 Screenshot-2
-[Image](/Users/sarwars/Downloads/agriculture design/agcode/agcode/public/screenshot_2.png)
+![Image](/Users/sarwars/Downloads/agriculture design/agcode/agcode/public/screenshot_2.png)
 
 
 Figma Demo Design
