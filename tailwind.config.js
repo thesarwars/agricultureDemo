@@ -7,6 +7,8 @@ module.exports = {
     "./node_modules/flowbite-react/**/*.js",
     './pages/**/*.{ts,tsx}', 
     './public/**/*.html',
+    'node_modules/daisyui/dist/**/*.js',
+    'node_modules/react-daisyui/dist/**/*.js',
   ],
   theme: {
     colors: {
@@ -16,6 +18,8 @@ module.exports = {
       'lightGreen': '#BDD69E',
       'darkGreen': '#365341',
       'darkerGreen':'#05712E',
+      'hoverGreen': '#1C7A07',
+      'hoverBgGreen': '#3E8C3C',
     },
     extend: {
       backgroundImage: {
@@ -26,6 +30,6 @@ module.exports = {
     },
   },
   plugins: [
-    require("flowbite/plugin")
+    require("flowbite/plugin", 'daisyui')
   ],
 }

@@ -12,11 +12,11 @@ export default function NavbarWithDropdown() {
   ];
   return (
     <Navbar fluid className="bg-nav-gray">
-      <Navbar.Brand href="https://flowbite-react.com">
+      <Navbar.Brand href="/">
         <Image
           src="/logo.png"
           width={200}
-          height={100}
+          height={80}
           alt="Flowbite React Logo"
           className="mr-3 ms-16"
         />
