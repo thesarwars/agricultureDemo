@@ -167,7 +167,7 @@ export default function Home() {
               agricultural sector, these respond to new market trends, ensuring
               the success of the farmer.
             </p>
-            <div className="z-10 absolute top-0 right-9">
+            <div className="z-10 absolute right-0">
               <Image src={leaves} alt="leaves" height={300} width={200} />
             </div>
           </div>
