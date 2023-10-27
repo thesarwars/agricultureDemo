@@ -16,6 +16,7 @@ import vector from "../../public/vector_2.png";
 import bg from "../../public/farmer.jpeg";
 import { RiArrowRightDoubleLine } from "react-icons/ri";
 import Link from "next/link";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -310,7 +311,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="flex gap-7 mt-20 items-center justify-center">
+      <div className="flex gap-7 mt-20 items-center justify-center mb-28">
         <div className="w-[800px] bg-pinkish h-[228px] relative">
           <div className="ms-4 mt-4">
             <h3 className="text-xl font-medium">
@@ -343,7 +344,7 @@ export default function Home() {
       </div>
       {/* Farmers Content End */}
 
-      
+      <Footer/>
     </>
   );
 }
